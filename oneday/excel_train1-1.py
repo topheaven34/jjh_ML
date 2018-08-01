@@ -1,3 +1,5 @@
+#oneday study
+
 import numpy as np
 text = np.loadtxt(
 	fname = "C:\Apps\Script\oneday\data01-train.csv",
